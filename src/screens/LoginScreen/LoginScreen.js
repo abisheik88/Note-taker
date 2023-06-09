@@ -53,8 +53,8 @@ function LoginScreen({ history }) {
               onChange={(e) => setPassword(e.target.value)}
             />
           </Form.Group>
-          <p>User: test123@gmail.com</p>
-          <p>Password: 12345</p>
+          <p>User:abc123@gmail.com</p>
+          <p>Password:123456</p>
 
           <Button variant="primary" type="submit">
             Submit
